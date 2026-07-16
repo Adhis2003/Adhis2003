@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Dev_404_adx 👋</h1>
-<h3 align="center">Full-Stack Web Developer | Turning ideas into clean, functional code</h3>
+<h1 align="center">Hi there, I'm Adhi_Adx 👋</h1>
+<h3 align="center">Full-Stack Developer | Turning ideas into clean, functional code</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Code.+Break.+Fix.+Repeat.;From+idea+to+deployed+in+one+sitting;Powered+by+curiosity+%26+coffee+%E2%98%95;Let%27s+build+something+great" alt="Typing SVG" />
@@ -30,11 +30,11 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=java&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> -->
 </p>
 
-> Leveling up from vanilla JS/TS into full-stack frameworks — building with React & Node.js next.
+> Leveling up from vanilla JS/TS into full-stack frameworks — building with React & Java.
 
 ---
 
